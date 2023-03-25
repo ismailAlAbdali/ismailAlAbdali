@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Machine Learning and Data Science
 - 🌱 I’m currently learning ... Machine Learning and Data Science
 - 💞️ I’m looking to collaborate on ... Machine Learning and Data Science Projects
-- 📫 How to reach me ... ismailalabdali20@gmail.com
+- 📫 How to reach me ... alabdaliesmail@gmail.com
 
 <!---
 ismailAlAbdali/ismailAlAbdali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
