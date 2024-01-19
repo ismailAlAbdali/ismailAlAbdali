@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ismailAlAbdali
-- 👀 I’m interested in ... Machine Learning and Data Science
-- 🌱 I’m currently learning ... Machine Learning and Data Science
-- 💞️ I’m looking to collaborate on ... Machine Learning and Data Science Projects
+- 👋 Hi, I’m @ismailAlAbdali, Senior Compter Science student
+- 👀 I’m interested in ... Data Engieering and Data Science
+- 🌱 I’m currently learning ... Data Engieering
+- 💞️ I’m looking to collaborate on ... Data Engieering and Data Science Projects
 - 📫 How to reach me ... alabdaliesmail@gmail.com
 
 <!---
